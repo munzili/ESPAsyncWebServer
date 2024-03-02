@@ -25,6 +25,7 @@
     {
       "owner": "esphome",
       "name": "AsyncTCP-esphome",
+      "version": "2.0.1",
       "platforms": ["espressif32", "libretuya"]
     },
     {
